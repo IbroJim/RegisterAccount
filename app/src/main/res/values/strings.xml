@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CreateAccount</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="register">Зарегестрироваться</string>
+    <string name="code">Код</string>
+    <string name="confirm">Потвердить</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="number_user">+7</string>
+</resources>
